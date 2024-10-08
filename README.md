@@ -1,1 +1,1 @@
-# LabWebsite
+# JuricaLab
